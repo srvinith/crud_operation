@@ -1,0 +1,19 @@
+{
+  "Empl": [
+    {
+      "id": 1,
+      "name": "vinith",
+      "email": "sr@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "vinith",
+      "email": "sr@gmail.com"
+    },
+    {
+      "name": "aishu",
+      "email": "aishu@gmail.com",
+      "id": 4
+    }
+  ]
+}
